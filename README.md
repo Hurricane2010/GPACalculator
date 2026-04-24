@@ -8,7 +8,7 @@ A clean, real-time GPA calculator built with Streamlit — currently in active u
 
 Students enter their courses, units, and grades and instantly see their unweighted and weighted GPA. The tool handles the full range of course types found in a typical high school schedule and allows counselors or students to customize weighting to match their school's specific policy.
 
-**Live Demo:** *(add your deployment URL here)*
+**Live Demo:** *[[Demo](https://calcgpa.streamlit.app/)*
 
 ---
 
